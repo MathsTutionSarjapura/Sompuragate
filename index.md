@@ -3,7 +3,6 @@
 * This is an extensive program to discover and Unlock Your Maths/Science Potential
 * Ace Your Studies with Expert Home Tuition in Math, Science & NEET Coaching!
 * Small size Batches: We believe in quality over quantity. That's why we keep our class sizes small to max 6 to ensure that each student receives the attention and support they deserve. Address: Near Spandana Hospital, Sompura Gate, Sarjapura
-* Admission closes by Feb/March month every academic year
 * For advance booking **call or watsapp 9538072190**
   
 ## Location 
