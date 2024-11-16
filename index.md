@@ -19,25 +19,30 @@
 
 ## Fee Structure
 * Doorstep one to one personalised home visits Starts @Rs. 12000 monthly (fees depends on distance and grades)
-* For Batch admissions, Rates are given below
+* For Batch admissions, Regular Rates are given below. 
 
 | Grades  | Monthly Fees [Mathematics] |
 | ------------- | ------------- |
-| Grade 6,7  | 4000  |
-| Grade 8  | 4250  |
-| Grade 9  | 4500  |
-| Grade 10  | 4500  |
-| Grade 11/12  | 5000 |
+| Grade 6,7  | 4,000  |
+| Grade 8  | 4,250  |
+| Grade 9  | 4,500  |
+| Grade 10  | 4,500  |
+| Grade 11/12  | 5,000 |
 
-| Grades  | Monthly Fees [Science]/NEET Batch |
+| Grades  | Monthly Fees [Science]/NEET Batch | Combo Offer |
 | ------------- | ------------- |
-| Grade 9,10 Phy  | 2400  |
-| Grade 9,10 Chem | 2400  |
-| Grade 9,10 Bio  | 2400  |
-| Grade 9,10 [Phy+chem+Bio] | 6500 |
-| Grade 11/12 Phy | 3000 |
-| Grade 11/12 Chem | 3000 |
-| Grade 11/12 Bio | 4000 |
-| Grade 11/12 Phy+Chem+Bio | 9000 |
+| Grade 6,7,8 Science  | 2,000  |
+| Grade 9,10 Phy  | 2,400  |
+| Grade 9,10 Chem | 2,400  |
+| Grade 9,10 Bio  | 2,400  |
+| Grade 9,10 [Phy+chem+Bio] | 7,200 | 6,500 |
+| Grade 9,10 [Phy+chem+Bio+Maths] | 11,700 | 10,500 |
+| Grade 11/12 Phy | 3,000 |
+| Grade 11/12 Chem | 3,000 |
+| Grade 11/12 Bio | 4,000 |
+| Grade 11/12 Phy+Chem+Bio | 10,000 | 9,000 |
+| Grade 11/12 Phy+Chem+Bio+Maths | 15,000 | 13,000 |
 
 ## Call or watsapp 9538072190
+## Location/Reviews
+https://www.google.com/maps/place/Maths+Tuition+Sarjapura,+Sompura+Gate/@12.8662108,77.7622615,17z/data=!4m8!3m7!1s0x3bae739f12ccef37:0x960c2cb14d5ed036!8m2!3d12.8662056!4d77.7648364!9m1!1b1!16s%2Fg%2F11thncx425?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D
