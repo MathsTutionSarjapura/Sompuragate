@@ -1,9 +1,8 @@
 
 # Admission
-* This is an extensive program to discover and Unlock Your Maths/Science Potential 
-* Provide Home visits @ your location, Currently home visit slots are full
+* This is an extensive program to discover and Unlock Your Maths/Science Potential
+* Ace Your Studies with Expert Home Tuition in Math, Science & NEET Coaching!
 * Small size Batches: We believe in quality over quantity. That's why we keep our class sizes small to max 6 to ensure that each student receives the attention and support they deserve. Address: Near Spandana Hospital, Sompura Gate, Sarjapura
-* 3 Slots per academic year 
 * Admission closes by Feb/March month every academic year
 * For advance booking **call or watsapp 9538072190**
   
@@ -11,16 +10,15 @@
 * Near Spandana Hospital, Sompura Gate, Sarjapura **call or watsapp 9538072190
   
 ## Courses / Syllabus
-* Mathematics for Grades 6 to 12
-* Science for Grades 9 to 12
-* Special Batch for ICSE Physics/Chemistry/Biology - for Grades 9,10 
-* Any syllabus including State, CBSE, ICSE, IB, IGCSE
+* Science and Mathematics for Grades 6 to 12
+* All syllabus including State, CBSE, ICSE, IB, IGCSE
 * Complimentary Mathematics Olympiad sessions included
+* Complimentary NEET Coaching included for grades 11, 12 PCB Batch
 * Daily assignments will be given for each day
 * Progress Tracking: We believe in tracking progress every step of the way. With regular assessments and feedback, you'll know exactly where you stand and how far you've come on your math journey.
 
 ## Fee Structure
-* Home visits Starts @Rs. 8000 monthly depending up on the distance and grades
+* Doorstep visits Starts @Rs. 12000 monthly depending up on the distance and grades
 * For Batch admissions, Rates are given below
 
 | Grades  | Monthly Fees [Mathematics] |
@@ -31,7 +29,7 @@
 | Grade 10  | 4500  |
 | Grade 11/12  | 5000 |
 
-| Grades  | Monthly Fees [Science] |
+| Grades  | Monthly Fees [Science]/NEET Batch |
 | ------------- | ------------- |
 | Grade 9,10 Phy  | 2400  |
 | Grade 9,10 Chem | 2400  |
