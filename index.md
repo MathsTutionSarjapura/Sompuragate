@@ -20,7 +20,7 @@
 * Doorstep one to one personalised home visits Starts @Rs. 12,000 monthly (fees depends on distance and grades)
 * For Batch admissions, Regular Rates are given below. 
 
-| Grades  | Monthly Fees / NEET Batch | Combo Offer |
+| Grades  | Monthly Fees / NEET Batch | Combo |
 | ------------- | ------------- | ------------- |
 | Grade 6,7 Maths  | 4,000  |  |
 | Grade 8 Maths | 4,250  |  |
