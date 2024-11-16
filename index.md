@@ -18,7 +18,7 @@
 * Progress Tracking: We believe in tracking progress every step of the way. With regular assessments and feedback, you'll know exactly where you stand and how far you've come on your math journey.
 
 ## Fee Structure
-* Doorstep visits Starts @Rs. 12000 monthly depending up on the distance and grades
+* Doorstep one to one personalised home visits Starts @Rs. 12000 monthly (fees depends on distance and grades)
 * For Batch admissions, Rates are given below
 
 | Grades  | Monthly Fees [Mathematics] |
