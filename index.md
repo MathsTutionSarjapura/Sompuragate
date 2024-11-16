@@ -17,7 +17,7 @@
 * Progress Tracking: We believe in tracking progress every step of the way. With regular assessments and feedback, you'll know exactly where you stand and how far you've come on your math journey.
 
 ## Fee Structure
-* Doorstep one to one personalised home visits Starts @Rs. 12000 monthly (fees depends on distance and grades)
+* Doorstep one to one personalised home visits Starts @Rs. 12,000 monthly (fees depends on distance and grades)
 * For Batch admissions, Regular Rates are given below. 
 
 | Grades  | Monthly Fees / NEET Batch | Combo Offer |
