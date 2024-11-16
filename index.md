@@ -13,7 +13,7 @@
 * Science and Mathematics for Grades 6 to 12
 * All syllabus including State, CBSE, ICSE, IB, IGCSE
 * Complimentary Mathematics Olympiad sessions included
-* Complimentary NEET Coaching included for grades 11, 12 PCB Batch
+* Complimentary NEET Coaching [NEET Materials, Module wise Tests included] for grades 11, 12 PCB, PCMB Batch
 * Daily assignments will be given for each day
 * Progress Tracking: We believe in tracking progress every step of the way. With regular assessments and feedback, you'll know exactly where you stand and how far you've come on your math journey.
 
