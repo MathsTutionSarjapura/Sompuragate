@@ -22,8 +22,7 @@
 
 | Grades  | Monthly Fees / NEET Batch | Combo |
 | ------------- | ------------- | ------------- |
-| Grade 1- 2 Maths  | 2,000  |  |
-| Grade 3,4,5 Maths  | 2,500  |  |
+| Grade 5 Maths  | 2,500  |  |
 | Grade 6,7 Maths  | 4,000  |  |
 | Grade 8 Maths | 4,250  |  |
 | Grade 9 Maths | 4,500  |  |
@@ -34,7 +33,7 @@
 | Grade 9,10 Chem | 2,400  | |
 | Grade 9,10 Bio  | 2,400  | |
 | Grade 9,10 [Phy+chem+Bio] | 7,200 | 4,500 |
-| Grade 9,10 [Phy+chem+Bio+Maths] | 11,700 | 8,500 |
+| Grade 9,10 [Phy+chem+Bio+Maths] | 9000 | 8,500 |
 | Grade 11/12 Phy | 3,000 | |
 | Grade 11/12 Chem | 3,000 | |
 | Grade 11/12 Bio | 4,000 | |
