@@ -22,7 +22,7 @@
 
 | Grades  | Monthly Fees / NEET Batch | Combo |
 | ------------- | ------------- | ------------- |
-| Grade 5 Maths  | 2,500  |  |
+| Grade 5 Maths  | 3,000  |  |
 | Grade 6,7 Maths  | 4,000  |  |
 | Grade 8 Maths | 4,250  |  |
 | Grade 9 Maths | 4,500  |  |
