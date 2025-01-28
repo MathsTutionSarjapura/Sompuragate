@@ -36,9 +36,9 @@
 | Grade 9,10 [Phy+chem+Bio+Maths] | 9000 | 8,500 |
 | Grade 11/12 Phy | 3,000 | |
 | Grade 11/12 Chem | 3,000 | |
-| Grade 11/12 Bio | 4,000 | |
-| Grade 11/12 Phy+Chem+Bio | 10,000 | 9,000 |
-| Grade 11/12 Phy+Chem+Bio+Maths | 14,500 | 13,000 |
+| Grade 11/12 Bio(Bot + Z00) | 5,000 | |
+| Grade 11/12 Phy+Chem+Bio | 11,000 | 10,000 |
+| Grade 11/12 Phy+Chem+Bio+Maths | 15,000 | 13,000 |
 | Grade 11/12 Phy+Chem+Maths | 10,500 | 10,000 |
 
 ## Call or watsapp 9538072190
