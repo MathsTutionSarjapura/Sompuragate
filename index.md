@@ -18,7 +18,8 @@
 
 ## Fee Structure
 * Doorstep one to one personalised home visits Starts @Rs. 12,000 monthly (fees depends on distance and grades)
-* For Batch admissions, Regular Rates are given below. 
+* For CBSE Batch admissions, Regular Rates are given below.
+* For Santhinivasa/ Krystal Campus Residents, 5-10% discounts applicable 
 
 | Grades  | Monthly Fees / NEET Batch |  
 | ------------- | ------------- |  
