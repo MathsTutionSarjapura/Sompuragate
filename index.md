@@ -25,15 +25,15 @@
 | Grade 5 Maths  | 2,500  |  
 | Grade 6 Maths  | 3,000  |  
 | Grade 7 Maths  | 4,000  |  
-| Grade 6,7 Science  | 3,000  |  
 | Grade 8 Maths | 4,250  |  
-| Grade 9/10 Maths | 4,500  |  
+| Grade 9/10 Maths | 4,500  |
+| Grade 6,7 Science  | 3,000  |  
 | Grade 9,10 Science  | 4,500  | 
 | Grade 9,10 [Science+Maths] | 8,000 | 
 | Grade 11/12 Phy | 4,000 | 
 | Grade 11/12 Chem | 4,000 | 
 | Grade 11/12 Maths | 4,500 |  
-| Grade 11/12 Bio(Bot + Zoo) | 4,500 | 
+| Grade 11/12 Biology | 4,500 | 
 | Grade 11/12 Phy+Chem+Maths | 12,000 | 
 | Grade 11/12 Phy+Chem+Bio | 12,000 |
 | Grade 11/12 Phy+Chem+Bio+Maths | 16,000 | 
