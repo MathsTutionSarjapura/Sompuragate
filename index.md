@@ -33,9 +33,6 @@
 | Grade 11/12 Phy | 4,000 | 
 | Grade 11/12 Chem | 4,000 | 
 | Grade 11/12 Biology | 4,500 | 
-| Grade 11/12 Phy+Chem+Maths | 12,000 | 
-| Grade 11/12 Phy+Chem+Bio | 12,000 |
-| Grade 11/12 Phy+Chem+Bio+Maths | 16,000 | 
 
 ## Call or watsapp 9538072190
 ## [Location/Reviews](https://www.google.com/maps/place/Maths+Tuition+Sarjapura,+Sompura+Gate/@12.8662108,77.7622615,17z/data=!4m8!3m7!1s0x3bae739f12ccef37:0x960c2cb14d5ed036!8m2!3d12.8662056!4d77.7648364!9m1!1b1!16s%2Fg%2F11thncx425?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D)
