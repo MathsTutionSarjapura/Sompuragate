@@ -26,13 +26,14 @@
 | Grade 6 Maths  | 3,000  |  
 | Grade 7 Maths  | 4,000  |  
 | Grade 8 Maths | 4,250  |  
-| Grade 9/10/11/12 Maths | 4,500  |
+| Grade 9/10 Maths | 4,500  |
 | Grade 6,7,8 Science  | 3,000  |  
 | Grade 9,10 Science  | 4,500  | 
 | Grade 9,10 [Science+Maths] | 8,000 | 
 | Grade 11/12 Phy | 4,000 | 
 | Grade 11/12 Chem | 4,000 | 
 | Grade 11/12 Biology | 4,500 | 
+| Grade 11/12 Maths | 4,500  |
 
 ## Call or watsapp 9538072190
 ## [Location/Reviews](https://www.google.com/maps/place/Maths+Tuition+Sarjapura,+Sompura+Gate/@12.8662108,77.7622615,17z/data=!4m8!3m7!1s0x3bae739f12ccef37:0x960c2cb14d5ed036!8m2!3d12.8662056!4d77.7648364!9m1!1b1!16s%2Fg%2F11thncx425?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D)
