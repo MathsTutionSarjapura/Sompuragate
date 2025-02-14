@@ -29,8 +29,7 @@
 | Grade 8 Maths | 4,250  |  
 | Grade 9/10 Maths | 4,500  |
 | Grade 6,7,8 Science  | 3,000  |  
-| Grade 9,10 Science  | 4,500  | 
-| Grade 9,10 [Science+Maths] | 8,000 | 
+| Grade 9,10 Science  | 4,000  | 
 | Grade 11/12 Phy | 4,000 | 
 | Grade 11/12 Chem | 4,000 | 
 | Grade 11/12 Biology | 4,500 | 
